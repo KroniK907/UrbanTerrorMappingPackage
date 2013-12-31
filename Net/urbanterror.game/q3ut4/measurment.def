@@ -1,0 +1,73 @@
+//===============================================================
+//Install notes:
+//for gtk: place in x:\program files\gtk radiant\q3.game\baseq3
+//for q3rad: x:\program files\quake iii arena\tools
+//===============================================================
+
+//	*	*	*	*	*	*	*	*
+
+/*QUAKED measure_player_stand (0.4 0.4 0.6) (-16 -16 -24) (32 32 48)
+Measuring tool for standing, recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are just about accurate about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_player_crouch (0.4 0.4 0.6) (-16 -16 -24) (32 32 24)
+Measuring tool for crouching, recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_jump_stationary (0.4 0.4 0.6) (-16 -16 -24) (32 32 96)
+Measuring tool for a single stationary jump, the maximum height a player can jump and grab a ledge in front of them, at full health. Stacking these on top of eachother would be just about accurate when measuring for a series of walljumps, if the walljumps are perfectly timed and the gap between the walls in which the player is jumping is fairly tight. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_jump_sprint (0.4 0.4 0.6) (-16 -16 -24) (276 276 32)
+Measuring tool for a maximum single sprint jump, and safely land on the other side, when sprinting in a single line, [no turning], at full health. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the  nearest unit.
+-------- NOTES --------
+This measurement is only meant for the x/y axis. The distance is the same for jumping across it at any angle. This was done because the game engine didnt support this makeshift entity to be rotatable, and only have one dimension specified for it to actually work, which is why they were made into squares.
+
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_jump (0.4 0.4 0.6) (-16 -16 -24) (148 148 32)
+Measuring tool for a maximum single running (NOT sprinting) jump, and safely land on the other side, when running in a single line, [no turning] at full health. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit.
+-------- NOTES --------
+This measurement is only meant for the x/y axis. The distance is the same for jumping across it at any angle. This was done because the game engine didnt support this makeshift entity to be rotatable, and only have one dimension specified for it to actually work, which is why they were made into squares.
+
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_fall_nohurt (0.4 0.4 0.6) (-16 -16 -24) (32 32 200)
+Measuring tool for a maximum drop a player can take, and land safely with no damage taken Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit. 
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_fall_hurt1 (0.4 0.4 0.6) (-16 -16 -24) (32 32 231)
+Measuring tool for a maximum drop a player can take, and barely take damage, resulting in their health being in the "Healthy" range still, when at full health. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_fall_hurt2 (0.4 0.4 0.6) (-16 -16 -24) (32 32 299)
+Measuring tool for a maximum drop a player can take, and take enough damage, resulting in their health being in the "Wounded" range still, at full health. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_fall_hurt3 (0.4 0.4 0.6) (-16 -16 -24) (32 32 394)
+Measuring tool for a maximum drop a player can take, and take enough damage, resulting in their health being in the "Near Death" range still, but their health they would still be able to heal themselves before they bleed to death. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just, when they are at full health about to the nearest unit.
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+/*QUAKED measure_fall_hurt4 (0.4 0.4 0.6) (-16 -16 -24) (32 32 425)
+Measuring tool for a drop resulting in the player dying on impact with the ground area. Recommended removal from map prior to compiling. It doesnt hurt the map in any way though. They are accurate just about to the nearest unit. 
+-------- NOTES --------
+This is for Urban Terror 4.0. The entities have not been tested as far as to support the game engine, which is why it is recommended to remove from the map prior to compilation.
+*/
+
+//	*	*	*	*	*	*	*	*
