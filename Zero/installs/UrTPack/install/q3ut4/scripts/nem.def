@@ -1,0 +1,137 @@
+
+/*QUAKED nem_stair_1 (0 0.423987 0.0260777) (-0 -0 -0) (144 80 8)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+
+/*QUAKED nem_stair_2 (0 0.423987 0.0260777) (-0 -0 -0) (128 80 16)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+
+/*QUAKED nem_stair_3 (0 0.423987 0.0260777) (-0 -0 -0) (112 80 24)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+
+/*QUAKED nem_stair_4 (0 0.423987 0.0260777) (-0 -0 -0) (96 80 32)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+
+/*QUAKED nem_stair_5 (0 0.423987 0.0260777) (-0 -0 -0) (80 80 40)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_stair_6 (0 0.423987 0.0260777) (-0 -0 -0) (64 80 48)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_stair_7 (0 0.423987 0.0260777) (-0 -0 -0) (48 80 56)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_stair_8 (0 0.423987 0.0260777) (-0 -0 -0) (32 80 64)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_stair_9 (0 0.423987 0.0260777) (-0 -0 -0) (16 80 72)
+
+This is just to get the right properties for a stair.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+
+/*QUAKED nem_door (0.1 0.423987 0.0260777) (-0 -0 -0) (4 64 80)
+
+This is just to get the right properties for a Door.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_room_high (0.1 0.423987 0.1) (-0 -0 -0) (8 8 128)
+
+This is just to get the right properties for a Room.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/
+
+/*QUAKED nem_box (0.1 0.423987 0.0260777) (-0 -0 -0) (48 48 48)
+
+This is just to get the right properties for a Door.
+
+-------- NOTES --------
+This is for Urban Terror 4.1.x
+Ingame, this entity makes absolutly nothing, but to protect your map from bugs, remove this Entity before compiling the map.
+
+mfg nemNEMnem
+*/

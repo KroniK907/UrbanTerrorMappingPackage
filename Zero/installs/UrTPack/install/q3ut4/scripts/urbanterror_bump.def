@@ -1,0 +1,7 @@
+//====================
+// Cube Map Probe
+//====================
+
+/*QUAKED cubemap_probe (1.0 0.5 0.8)(-8 -8 -8) (8 8 8)
+Location of camera for cube map for specular mapping. Place at head height in the centre of an area. There are no keys.
+*/
